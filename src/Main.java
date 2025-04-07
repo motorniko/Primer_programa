@@ -20,10 +20,5 @@ public class Main {
         System.out.println("Clasificación: " + clasificacion);
         System.out.println("Sinopsis: " + sinopsis);
 
-        if (incluidoEnElPlan) {
-            System.out.println("Incluido en el plan");
-        } else {
-            System.out.println("No incluido en el plan");
-        }
     }
 }
